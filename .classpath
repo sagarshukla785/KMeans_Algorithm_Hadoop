@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/netty-3.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/htrace-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-server-web-proxy-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-server-tests-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-server-resourcemanager-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-server-nodemanager-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-server-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-server-applicationhistoryservice-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-registry-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-client-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-applications-unmanaged-am-launcher-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-applications-distributedshell-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-yarn-api-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-nfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-examples-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-shuffle-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-jobclient-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-jobclient-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-hs-plugins-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-hs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-mapreduce-client-app-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-hdfs-nfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-hdfs-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-hdfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-common-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/hadoop-auth-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/sagar/Downloads/hadoop-eclipse-plugin-2.6.0/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

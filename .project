@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>KmeansAlgoHadoop</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Input</name>
+			<type>2</type>
+			<location>/home/sagar/Desktop/Input</location>
+		</link>
+		<link>
+			<name>Output</name>
+			<type>2</type>
+			<location>/home/sagar/Desktop/Output</location>
+		</link>
+	</linkedResources>
+</projectDescription>
