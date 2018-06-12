@@ -16,12 +16,12 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Input</name>
+			<name>src/Input</name>
 			<type>2</type>
 			<location>/home/sagar/Desktop/Input</location>
 		</link>
 		<link>
-			<name>Output</name>
+			<name>src/Output</name>
 			<type>2</type>
 			<location>/home/sagar/Desktop/Output</location>
 		</link>
